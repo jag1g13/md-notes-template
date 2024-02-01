@@ -1,0 +1,6 @@
+.git-old/
+.venv/
+.vscode/
+
+*.pyc
+*.swp
